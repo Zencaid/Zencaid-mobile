@@ -1,7 +1,6 @@
 
 # Zencaid – Mobile Application
 
-
 ## Overview
 
 Zencaid is a mobile-first telehealth platform offering video consultations, medical record access, and offline support tailored for the African healthcare system. This repository houses both the **Patient App** and **Doctor App**.
@@ -75,8 +74,8 @@ Key tables:
 - Premium subscriptions via Paystack/Flutterwave
 - Telecom bundles for rural patients
 
-markdown 
-,,,
+
+```markdown
 ## Repo Structure
 
 /mobile
@@ -89,7 +88,7 @@ markdown
 │   ├── /components
 │   ├── /utils
 
-,,,
+```
 
 ## DevOps & OTA
 
@@ -103,5 +102,4 @@ markdown
 2. Create a feature branch
 3. Run tests and lint checks
 4. Submit PR to `develop`
-
 
