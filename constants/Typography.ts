@@ -1,0 +1,32 @@
+export const Typography = {
+  fontFamily: {
+    primary: 'Inter-Regular',
+    primaryMedium: 'Inter-Medium',
+    primarySemiBold: 'Inter-SemiBold',
+    primaryBold: 'Inter-Bold',
+    secondary: 'Poppins-Regular',
+    secondaryMedium: 'Poppins-Medium',
+    secondarySemiBold: 'Poppins-SemiBold',
+    secondaryBold: 'Poppins-Bold',
+  },
+  fontSize: {
+    xs: 12,
+    sm: 14,
+    md: 16,
+    lg: 18,
+    xl: 20,
+    xxl: 24,
+    xxxl: 32,
+    xxxxl: 40,
+  },
+  lineHeight: {
+    xs: 16,
+    sm: 20,
+    md: 24,
+    lg: 28,
+    xl: 30,
+    xxl: 32,
+    xxxl: 40,
+    xxxxl: 48,
+  },
+};
