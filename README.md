@@ -75,9 +75,9 @@ Key tables:
 - Premium subscriptions via Paystack/Flutterwave
 - Telecom bundles for rural patients
 
+markdown 
+,,,
 ## Repo Structure
-
-
 
 /mobile
 ├── /patient-app
@@ -89,7 +89,7 @@ Key tables:
 │   ├── /components
 │   ├── /utils
 
-
+,,,
 
 ## DevOps & OTA
 
