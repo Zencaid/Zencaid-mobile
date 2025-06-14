@@ -1,8 +1,6 @@
 
-## ✅ `README.md` for the **Mobile Application** (`/mobile/README.md`)
-
-```markdown
 # Zencaid – Mobile Application
+
 
 ## Overview
 
@@ -77,18 +75,9 @@ Key tables:
 - Premium subscriptions via Paystack/Flutterwave
 - Telecom bundles for rural patients
 
-## Roadmap
-
-| Quarter | Milestone |
-|---------|-----------|
-| Q2 2025 | MVP Android/iOS Launch |
-| Q4 2025 | HMO APIs + Voice Consults |
-| Q2 2026 | Multilingual & AI Modules |
-| 2027+   | NHIS Data Partnerships |
-
 ## Repo Structure
 
-```
+
 
 /mobile
 ├── /patient-app
@@ -100,7 +89,7 @@ Key tables:
 │   ├── /components
 │   ├── /utils
 
-```
+
 
 ## DevOps & OTA
 
@@ -114,7 +103,5 @@ Key tables:
 2. Create a feature branch
 3. Run tests and lint checks
 4. Submit PR to `develop`
-```
 
----
 
